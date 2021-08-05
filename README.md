@@ -3,7 +3,8 @@ ________________________________________________________________________________
 
 
 Aluno: Alexandre Petrulli \
-Professor: Anderson Nascimento
+
+Orientador: [Anderson Nascimento]https://github.com/insightds
 
 ___________________________________________________________________________________________________
 
