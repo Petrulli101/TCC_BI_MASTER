@@ -9,6 +9,7 @@ ________________________________________________________________________________
 
 Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e como nota da disciplina "Projeto de Sistemas Inteligentes de Apoio à Decisão"
 
+* [Link do código](https://github.com/Petrulli101/TCC_BI_MASTER)
 ___________________________________________________________________________________________________
 
 
