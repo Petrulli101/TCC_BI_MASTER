@@ -7,10 +7,15 @@ Orientador: [Anderson Nascimento](https://github.com/insightds)
 
 ___________________________________________________________________________________________________
 
+
+
 Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e como nota da disciplina "Projeto de Sistemas Inteligentes de Apoio à Decisão"
 
 * [Link para o código.](https://github.com/Petrulli101/TCC_BI_MASTER)
+
+
 ___________________________________________________________________________________________________
+
 
 
 A Buy More – Terceirização de Serviços em TI, iniciou suas atividades em 2012. A empresa é especializada na terceirização de serviços de service desk e suporte de TI para outras organizações. Seus escritórios são em São Paulo, Rio de Janeiro e Florianópolis, porém mais da metade dos seus colaboradores trabalham de forma remota, adotando o modelo de home office.
